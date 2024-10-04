@@ -2,7 +2,7 @@
 
 Meu nome é João Guilherme 
 
-- Estou estudando na Alura
+- Estou estudando na [Alura]
 - Estou me desenvolvendo na linguagem de JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
