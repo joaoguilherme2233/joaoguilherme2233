@@ -9,3 +9,6 @@ Meu nome é João Guilherme
 ### Você entrar em contato comigo 📫
 
 joao.fabri.carvalho@escola.pr.gov.br
+
+
+!.[_].(https://media1.tenor.com/m/H-Mkm2nMKYkAAAAC/spiderman-fortnite.gif)
