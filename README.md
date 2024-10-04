@@ -2,7 +2,7 @@
 
 Meu nome é João Guilherme 
 
-- Estou estudando na [Alura]
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem de JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,4 +11,4 @@ Meu nome é João Guilherme
 joao.fabri.carvalho@escola.pr.gov.br
 
 
-!.[_].(https://media1.tenor.com/m/H-Mkm2nMKYkAAAAC/spiderman-fortnite.gif)
+![_](https://media1.tenor.com/m/H-Mkm2nMKYkAAAAC/spiderman-fortnite.gif)
